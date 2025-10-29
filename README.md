@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frases_do_dia
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Projetodart-flutter
+Projeto realizado como requisito para aprovação na disciplina programação para dispositivos moveis
+>>>>>>> 741132eac0f4e8753a94e7cdf1deec4b3abda0e6
