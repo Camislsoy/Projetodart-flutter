@@ -1,21 +1,31 @@
-<<<<<<< HEAD
-# frases_do_dia
+# 🌸 Frases do Dia — Flutter (Web)
 
-A new Flutter project.
+App simples e fofo em **Flutter** que mostra frases inspiradoras, permite **favoritar** e salva localmente usando `shared_preferences`.  
+Visual em tons **lilás/roxo/rosa**, com gradiente suave e Material 3.
 
-## Getting Started
+![screenshot](docs/screenshot.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias
+- **Flutter 3.x** (Web)
+- **Dart 3.x**
+- `shared_preferences` (persistência simples)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+## ✨ Funcionalidades
+- Gerar **nova frase** aleatória
+- **Favoritar** e **remover** favoritos
+- **Lista de favoritos** com swipe para excluir
+- **Tema** com Material 3 e gradiente lilás/rosa
+- Suporte **Web** (Chrome)
+
+---
+
+## 🧭 Estrutura
+
+
 # Projetodart-flutter
 Projeto realizado como requisito para aprovação na disciplina programação para dispositivos moveis
 >>>>>>> 741132eac0f4e8753a94e7cdf1deec4b3abda0e6
