@@ -10,7 +10,7 @@ Visual em tons **lilás/roxo/rosa**, com gradiente suave e Material 3.
 ## 🚀 Tecnologias
 - **Flutter 3.x** (Web)
 - **Dart 3.x**
-- `shared_preferences` (persistência simples)
+- `shared_preferences` (persistência simples)git 
 
 ---
 
@@ -24,6 +24,16 @@ Visual em tons **lilás/roxo/rosa**, com gradiente suave e Material 3.
 ---
 
 ## 🧭 Estrutura
+
+---
+
+## ▶️ Como rodar
+
+> Requisitos: Flutter instalado + Chrome
+
+```bash
+flutter pub get
+flutter run -d chrome
 
 
 # Projetodart-flutter
